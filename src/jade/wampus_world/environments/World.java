@@ -1,4 +1,4 @@
-package jade.wampus_world.enviroments;
+package jade.wampus_world.environments;
 
 import jade.util.Logger;
 import jade.wampus_world.agents.WorldModelListener;

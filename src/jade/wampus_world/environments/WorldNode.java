@@ -1,4 +1,4 @@
-package jade.wampus_world.enviroments;
+package jade.wampus_world.environments;
 
 import jade.wampus_world.agents.SpectologAgent;
 
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WorldNode {
-    
+
     int xCoord;
     int yCoord;
     boolean pit;
